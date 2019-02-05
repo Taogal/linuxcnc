@@ -1,0 +1,3 @@
+skip this: tests/module-loading/or2/17-names
+
+Currently, no limits are imposed on number of names=item
